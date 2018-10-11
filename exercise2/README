@@ -1,0 +1,2 @@
+Programa que traduce tripletes de un fichero fasta a sus correspondientes aminoacidos y los imprime por pantalla 
+Ejecucion = python3 traductor_de_bases_a_aminoacidos.py [fichero fasta] (desde el terminal)
